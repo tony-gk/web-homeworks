@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: tonny
+Build-Jdk: 11.0.5
+Implementation-Title: wp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ru.itmo
+Main-Class: ${start-class}
+

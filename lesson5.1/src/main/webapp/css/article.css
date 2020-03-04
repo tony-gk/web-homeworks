@@ -1,0 +1,75 @@
+.article-form textarea {
+    resize: none;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 45rem;
+    height: 20rem;
+}
+
+.article-form .error {
+    color: red;
+    margin-bottom: 0.5rem;
+}
+
+.articles article {
+    margin-top: 2rem;
+}
+.articles .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #3B5998;
+}
+
+.articles .information {
+    color: grey;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+.articles .body {
+    border-left: lightgrey 0.3rem solid;
+    padding-left: 1rem;
+    white-space: pre-line;
+}
+
+.articles ul {
+    padding-left: 0;
+}
+
+.articles ul li {
+    background: url("../img/paperclip-16x16.png") no-repeat;
+    color: grey;
+    padding-left: 20px;
+}
+.articles .footer {
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    overflow: auto;
+    padding: 7px;
+}
+
+.articles .footer .left {
+    float: left;
+}
+
+.articles .footer .right {
+    float: right;
+    font-size: 0.9em;
+    padding: 3px 0;
+}
+
+.articles .footer img, span {
+    vertical-align: middle;
+}
+
+.articles .footer img {
+    margin: 0 3px;
+}
+
+.positive-score {
+    font-weight: bold;
+    font-size: larger;
+    color: green;
+}
+

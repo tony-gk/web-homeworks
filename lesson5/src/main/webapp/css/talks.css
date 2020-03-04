@@ -1,0 +1,18 @@
+.talks {
+    margin-left: 2rem;
+}
+
+.talks form {
+    margin-bottom: 2rem;
+}
+
+.talks textarea {
+    resize: none;
+    margin-top: 1rem;
+    width: 30rem;
+    height: 10rem;
+}
+
+.talks select {
+    width: 7rem;
+}

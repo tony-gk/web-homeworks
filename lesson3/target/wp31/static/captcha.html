@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Captcha</title>
+</head>
+<body>
+    <a href="#"><img src="data:image/png;base64," alt="Captcha" /></a>
+    <form action="/captcha" method="post">
+        <input type="hidden" name="value" value="/index">
+        <label>
+            <input name="captcha" type="text">
+        </label>
+    </form>
+</body>
+</html>
