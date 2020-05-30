@@ -1,1 +1,2 @@
-# web-homeworks
+# Web homeworks
+Условия заданий и решение внутри.
